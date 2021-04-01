@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  background: #292929;
+}
+body div:nth-child(1) {
+  color: white;
+}
+body div:nth-child(2) {
+  color: white;
+}
+body div:nth-child(3) {
+  color: #fdf9f9;
+}
+body div:nth-child(4) {
+  color: #efd4d4;
+}
+body div:nth-child(5) {
+  color: #e1afaf;
+}
+body div:nth-child(6) {
+  color: #d38a8a;
+}
+body div:nth-child(7) {
+  color: #c56565;
+}
+body div:nth-child(8) {
+  color: #b34444;
+}
+body div:nth-child(9) {
+  color: #8e3636;
+}
+body div:nth-child(10) {
+  color: #692828;
+}
+body div:nth-child(11) {
+  color: #441a1a;
+}
+
+/*# sourceMappingURL=style.css.map */

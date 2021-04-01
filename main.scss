@@ -1,0 +1,39 @@
+@import 'scss/variables';
+
+body{
+  display: flex;
+  div:nth-child(1){
+    color: $red-lighten-5;
+  }
+  div:nth-child(2){
+    color: $red-lighten-4;
+  }
+  div:nth-child(3){
+    color: $red-lighten-3;
+  }
+  div:nth-child(4){
+    color: $red-lighten-2;
+  }
+  div:nth-child(5){
+    color: $red-lighten-1;
+  }
+  div:nth-child(6){
+    color: $red;
+  }
+  div:nth-child(7){
+    color: $red-darken-1;
+  }
+  div:nth-child(8){
+    color: $red-darken-2;
+  }
+  div:nth-child(9){
+    color: $red-darken-3;
+  }
+  div:nth-child(10){
+    color: $red-darken-4;
+  }
+  div:nth-child(11){
+    color: $red-darken-5;
+  }
+  background: #292929;
+}
